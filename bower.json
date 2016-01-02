@@ -21,9 +21,9 @@
 	"ignore": [],
 	"dependencies": {
 		"polymer": "Polymer/polymer#^1.0.0",
-		"forge-reloader": "FuzzicalLogic/forge-reloader#~0.1.0",
-		"forge-repainter": "FuzzicalLogic/forge-repainter#~0.1.0",
-		"native-developer-tools": "FuzzicalLogic/native-developer-tools#~0.1.0"
+		"forge-reloader": "FuzzicalLogic/forge-reloader#~0",
+		"forge-repainter": "FuzzicalLogic/forge-repainter#~0",
+		"native-developer-tools": "FuzzicalLogic/native-developer-tools#~0"
 	},
 	"devDependencies": {
 		"iron-component-page": "polymerelements/iron-component-page#^1.0.0",
