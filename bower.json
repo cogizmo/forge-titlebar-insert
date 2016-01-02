@@ -1,0 +1,36 @@
+{
+	"name": "forge-titlebar-insert",
+	"version": "0.1.0",
+	"description": "Micro toolbar for inserting into nativeweb application titlebars.",
+	"private": true,
+	"authors": [
+		"Donald Atkinson"
+	],
+	"keywords": [
+		"web-components",
+		"polymer",
+		"nativeweb"
+	],
+	"main": "index.html",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/FuzzicalLogic/forge-titlebar-insert.git"
+	},
+	"license": "http://polymer.github.io/LICENSE.txt",
+	"homepage": "https://github.com/FuzzicalLogic/forge-titlebar-insert",
+	"ignore": [],
+	"dependencies": {
+		"polymer": "Polymer/polymer#^1.0.0",
+		"forge-reloader": "FuzzicalLogic/forge-reloader#~0.1.0",
+		"forge-repainter": "FuzzicalLogic/forge-repainter#~0.1.0",
+		"native-developer-tools": "FuzzicalLogic/native-developer-tools#~0.1.0"
+	},
+	"devDependencies": {
+		"iron-component-page": "polymerelements/iron-component-page#^1.0.0",
+		"iron-image": "polymerelements/iron-image#^1.0.0",
+		"paper-styles": "polymerelements/paper-styles#^1.0.0",
+		"test-fixture": "polymerelements/test-fixture#^1.0.0",
+		"web-component-tester": "polymer/web-component-tester#^3.4.0",
+		"webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+	}
+}
